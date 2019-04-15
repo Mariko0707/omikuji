@@ -1,0 +1,38 @@
+.container {
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.result {
+  font-family:"HanziPen SC";
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 300px;
+  border-radius: 50%;
+  background: #FF5192;
+}
+
+.result p {
+  color: white;
+  font-size: 30px;
+}
+
+.btn {
+  cursor: pointer;
+  font-family:"HanziPen SC";
+  width: 200px;
+  background: #FF9900;
+  color: white;
+  border-radius: 13px;
+  line-height: 40px;
+  font-size: 20px;
+}
+
+.btn:hover {
+  opacity: .7;
+}
