@@ -20,5 +20,4 @@ let bgColor = ['#FF251E',' #F56A29','C3D825','#88CB7F','#89C3EB'];
 		bg[0].style.backgroundColor = bgColor[color];
 
 
-
 		});
